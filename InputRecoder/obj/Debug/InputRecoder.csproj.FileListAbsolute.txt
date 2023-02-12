@@ -1,0 +1,13 @@
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\bin\Debug\InputRecoder.exe.config
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\bin\Debug\InputRecoder.exe
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\bin\Debug\InputRecoder.pdb
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\obj\Debug\InputRecoder.csproj.AssemblyReference.cache
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\obj\Debug\InputRecoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\obj\Debug\InputRecoder.Properties.Resources.resources
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\obj\Debug\InputRecoder.csproj.GenerateResource.cache
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\obj\Debug\InputRecoder.csproj.CoreCompileInputs.cache
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\obj\Debug\InputRecoder.exe
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\obj\Debug\InputRecoder.pdb
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\obj\Debug\InputRecoder.csproj.CopyComplete
+C:\Users\90892\source\repos\UguiTest0\InputRecoder\InputRecoder\obj\Debug\InputRecoder.InputRecoder.resources
